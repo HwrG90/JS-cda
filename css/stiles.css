@@ -1,0 +1,24 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(../assets/Arrays-en-javascript-.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: black;
+}
+
+h1 {
+  text-align: center;
+  color: #111110;
+  font-size: 2.5rem;
+  letter-spacing: 2px;
+  font-family: "Comfortaa", cursive;
+}
+
+/*# sourceMappingURL=stiles.css.map */
